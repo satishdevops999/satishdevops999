@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 👋 Hi there! I'm Satish, **AWS Certified Solution Architect (SAA-003)** and **Certified Terraform Associate** with 5+ Years of experience in Linux System Adminstration, Cloud Computing and DevOps Practices.
 I specialize in building robust CI/CD pipelines, automating cloud infrastructure, and ensuring seamless deployment processes. Passionate about leveraging tools like Docker, Kubernetes, and Terraform to drive efficiency and reliability in software development.
@@ -18,4 +18,4 @@ I specialize in building robust CI/CD pipelines, automating cloud infrastructure
 ### 📫 Get in Touch
 Feel free to connect with me:
 - [LinkedIn] www.linkedin.com/in/satish-satti-707297229
-- [Mail] Satishdevops777@gmail.com
+- [Mail] Satishdevops9189@gmail.com
