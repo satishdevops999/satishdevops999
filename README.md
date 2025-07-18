@@ -1,16 +1,21 @@
-## Hi there 👋
+## About Me
 
-<!--
-**satishdevops999/satishdevops999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Satish, **AWS Certified Solution Architect (SAA-003)** and **Certified Terraform Associate** with 5+ Years of experience in Linux System Adminstration, Cloud Computing and DevOps Practices.
+I specialize in building robust CI/CD pipelines, automating cloud infrastructure, and ensuring seamless deployment processes. Passionate about leveraging tools like Docker, Kubernetes, and Terraform to drive efficiency and reliability in software development.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Cloud Platforms**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD Tools**: Jenkins, GitLab CI, CircleCI
+- **Configuration Management**: Ansible, Terraform
+- **Scripting Languages**: Python, Bash
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Projects
+- A project with Shell-scripting : https://github.com/satishdevops777/roboshop-scripts
+- A project with ansible roles and tasks : https://github.com/satishdevops777/ansible-v5
+  
+### 📫 Get in Touch
+Feel free to connect with me:
+- [LinkedIn] www.linkedin.com/in/satish-satti-707297229
+- [Mail] Satishdevops777@gmail.com
